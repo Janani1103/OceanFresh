@@ -360,33 +360,33 @@ Fully optimized for:
 
 | Home | Login | Register |
 |------|-------|----------|
-| ![](./README_Images/home.jpeg) | ![](./README_Images/login.jpeg) | ![](./README_Images/register.jpeg) |
+| ![](./ReadME_Images/home.jpeg) | ![](./ReadME_Images/login.jpeg) | ![](./ReadME_Images/register.jpeg) |
 
 ### Admin Portal
 
 | Dashboard | Suppliers | Inventory |
 |-----------|-----------|-----------|
-| ![](./README_Images/admin.jpeg) | ![](./README_Images/a-suppliers.jpeg) | ![](./README_Images/a-inventory.jpeg) |
+| ![](./ReadME_Images/admin.jpeg) | ![](./ReadME_Images/a-suppliers.jpeg) | ![](./ReadME_Images/a-inventory.jpeg) |
 
 | Customers | Delivery | Reports |
 |-----------|----------|---------|
-| ![](./README_Images/a-customers.jpeg) | ![](./README_Images/a-delivery.jpeg) | ![](./README_Images/a-reports.jpeg) |
+| ![](./ReadME_Images/a-customers.jpeg) | ![](./ReadME_Images/a-delivery.jpeg) | ![](./ReadME_Images/a-reports.jpeg) |
 
 ### Customer Portal
 
 | Dashboard | Browse | Cart |
 |-----------|--------|------|
-| ![](./README_Images/customer.jpeg) | ![](./README_Images/c-browse.jpeg) | ![](./README_Images/c-cart.jpeg) |
+| ![](./ReadME_Images/customer.jpeg) | ![](./ReadME_Images/c-browse.jpeg) | ![](./ReadME_Images/c-cart.jpeg) |
 
 | Checkout | Tracking | Orders |
 |----------|----------|--------|
-| ![](./README_Images/c-checkout.jpeg) | ![](./README_Images/c-liveTrack.jpeg) | ![](./README_Images/c-orders.jpeg) |
+| ![](./ReadME_Images/c-checkout.jpeg) | ![](./ReadME_Images/c-liveTrack.jpeg) | ![](./ReadME_Images/c-orders.jpeg) |
 
 ### Supplier Portal
 
 | Dashboard | Catches | Add Catch |
 |-----------|---------|-----------|
-| ![](./README_Images/supplier.jpeg) | ![](./README_Images/s-catches.jpeg) | ![](./README_Images/s-addCatch.jpeg) |
+| ![](./ReadME_Images/supplier.jpeg) | ![](./ReadME_Images/s-catches.jpeg) | ![](./ReadME_Images/s-addCatch.jpeg) |
 
 ---
 
