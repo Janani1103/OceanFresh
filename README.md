@@ -310,7 +310,77 @@ The application is fully responsive and works seamlessly on:
 3. **Start Frontend**: `cd frontend && npm run dev`
 4. **Open Browser**: Navigate to `http://localhost:5173`
 
-## 👤 Default Admin Access
+## � Application Screenshots
+
+### Landing & Authentication
+
+**Home Page**
+![Home Page](ReadME_Images/home.jpeg)
+
+**Login Page**
+![Login Page](ReadME_Images/login.jpeg)
+
+**Registration Page**
+![Registration Page](ReadME_Images/register.jpeg)
+
+### Admin Dashboard
+
+**Admin Dashboard Overview**
+![Admin Dashboard](ReadME_Images/admin.jpeg)
+
+**Supplier Management**
+![Supplier Management](ReadME_Images/a-suppliers.jpeg)
+
+**Add New Supplier**
+![Add Supplier](ReadME_Images/addSupplier.jpeg)
+
+**Inventory Management**
+![Inventory Management](ReadME_Images/a-inventory.jpeg)
+
+**Customer Management**
+![Customer Management](ReadME_Images/a-customers.jpeg)
+
+**Order & Delivery Management**
+![Delivery Management](ReadME_Images/a-delivery.jpeg)
+
+**Delivery Timeline**
+![Delivery Timeline](ReadME_Images/a-deliveryTimeline.jpeg)
+
+**Reports & Analytics**
+![Reports](ReadME_Images/a-reports.jpeg)
+
+### Customer Portal
+
+**Customer Dashboard**
+![Customer Dashboard](ReadME_Images/customer.jpeg)
+
+**Browse Products**
+![Browse Products](ReadME_Images/c-browse.jpeg)
+
+**Shopping Cart**
+![Shopping Cart](ReadME_Images/c-cart.jpeg)
+
+**Checkout**
+![Checkout](ReadME_Images/c-checkout.jpeg)
+
+**Order Tracking**
+![Order Tracking](ReadME_Images/c-liveTrack.jpeg)
+
+**Order History**
+![Order History](ReadME_Images/c-orders.jpeg)
+
+### Supplier Portal
+
+**Supplier Dashboard**
+![Supplier Dashboard](ReadME_Images/supplier.jpeg)
+
+**View Catches**
+![View Catches](ReadME_Images/s-catches.jpeg)
+
+**Add New Catch**
+![Add Catch](ReadME_Images/s-addCatch.jpeg)
+
+## �👤 Default Admin Access
 
 After registration, you can create an admin user by selecting "admin" role during registration, or manually update a user's role in the database.
 
@@ -340,5 +410,6 @@ This project was developed as a comprehensive solution for fisheries and seafood
 
 ## 📞 Support
 
-For issues or questions, please refer to the project documentation or contact the development team.#   O c e a n F r e s h  
+For issues or questions, please refer to the project documentation or contact the development team.#   O c e a n F r e s h 
+ 
  
